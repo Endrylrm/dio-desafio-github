@@ -1,5 +1,5 @@
 # Git e Github
->[Link de download do Git](git@github.com:Endrylrm/dio-desafio-github.git)
+>[Link de download do Git](https://git-scm.com/downloads)
 
 >[Documentação do Git](https://git-scm.com/docs)
 
